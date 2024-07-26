@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Aplicação desenvolvida no NLW Unite da Rocketseat na trilha ReactJS.
+Aplicação desenvolvida no NLW Unite da Rocketseat na trilha Java.
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Neste projeto foi desenvolvido a versão simplificada de um sistema de check-in 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,spring)](https://skillicons.dev)
 
 ##
 <br> 
